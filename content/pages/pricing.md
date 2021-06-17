@@ -103,10 +103,11 @@ sections:
           Whichever stage you might be at, get in touch with our business
           developers to get an accurate quote and scope of work!
       - title: Can I engage solely for branding and marketing?
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
+        content: >
+          Absolutely. Antares Consulting takes care of all aspects of
+          pharmaceuticals consulting and implementation work, that includes
+          getting an ala-carte service on branding and marketing of your pharma
+          / medtech company.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
