@@ -14,17 +14,20 @@ sections:
       - title: Hourly Consultantion
         subtitle: Hourly Consultation Package
         title_align: left
-        content: |-
-          ---
+        content: >
+          ***
 
-          ### $9
 
-          per month, billed yearly
+          ### $120
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
+
+          per hour, billed monthly
+
+
+          *   Access to our talent pool and the right talent to manage your
+          project
+
+          *   Flexible, cancel any time.
         content_align: left
         actions:
           - label: Start with Personal
