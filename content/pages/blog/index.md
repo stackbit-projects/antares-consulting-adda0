@@ -2,7 +2,7 @@
 title: Blog
 sections:
   - type: hero_section
-    title: Pharma News
+    title: Antares Insights
     subtitle: Your Trusted Source to Pharma and MedTech Intelligence
     align: center
     padding_top: medium
