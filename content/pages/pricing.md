@@ -18,7 +18,7 @@ sections:
           ***
 
 
-          ### $120
+          ### SGD $120
 
 
           per hour, billed monthly
