@@ -39,7 +39,7 @@ sections:
         subtitle: Dedicated Consultant(s) powering your team
         title_align: left
         content: >
-          ### &#xA;SGD $1900++
+          ### SGD $1900 ++
 
 
           per month, billed yearly
