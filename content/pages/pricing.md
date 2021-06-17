@@ -74,7 +74,7 @@ sections:
           an accurate scoping of work and pricing.
         content_align: left
         actions:
-          - label: Start with Business
+          - label: Speak with Sales
             url: /features
             style: primary
         actions_align: left
