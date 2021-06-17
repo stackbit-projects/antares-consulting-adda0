@@ -200,7 +200,7 @@ sections:
     align: center
     background_color: secondary
   - type: blog_feed_section
-    title: What's New
+    title: Antares Client Success Stories
     subtitle: Case Studies
     actions:
       - label: View All
