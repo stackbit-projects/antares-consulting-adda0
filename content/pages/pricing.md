@@ -30,7 +30,7 @@ sections:
           *   Flexible, cancel any time.
         content_align: left
         actions:
-          - label: Start with Personal
+          - label: Get This Package
             url: /features
             style: primary
         actions_align: left
