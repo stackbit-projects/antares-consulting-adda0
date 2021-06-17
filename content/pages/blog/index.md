@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     title: Pharma News
-    subtitle: Your Insight to the Pharmaceuticals Industry
+    subtitle: Insights to the Pharmaceuticals Industry
     align: center
     padding_top: medium
     padding_bottom: none
