@@ -81,7 +81,7 @@ sections:
         content_align: left
         actions:
           - label: Get Directions
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
+            url: 'https://www.google.com.sg/maps/place/82+UBI+AVENUE+4'
             style: link
             has_icon: true
             icon: arrow-right
