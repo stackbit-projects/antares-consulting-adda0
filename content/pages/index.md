@@ -73,10 +73,13 @@ sections:
         media_position: right
         media_width: fifty
       - title: Research and Development Strategy Solutions
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          We provide customized research and analysis that transforms
+          information on clinical trials, drugs and sites into actionable
+          intelligence for your organization. From helping you visualize your
+          future competitive landscape to improving your chances of running a
+          successful clinical trial, this service provides the tools you need
+          for effective decision making.
         actions:
           - label: Learn More
             url: /style-guide
