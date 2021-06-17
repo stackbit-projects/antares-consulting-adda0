@@ -159,7 +159,7 @@ sections:
       Interested in joining the ranks of a top-tier pharmaceuticals consultancy
       firm? Let's get in touch!
     actions:
-      - label: Learn More
+      - label: Speak with a Recruiter
         url: /features
         style: secondary
     actions_position: right
