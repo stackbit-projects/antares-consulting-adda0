@@ -104,7 +104,7 @@ sections:
     title: Excellence in Every Project
     subtitle: Our Promise
     grid_items:
-      - title: Section Item 1
+      - title: Available Worldwide Timezone
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
