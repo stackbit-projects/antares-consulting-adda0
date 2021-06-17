@@ -24,7 +24,7 @@ sections:
     title: Pharmaceuticals Consulting
   - type: grid_section
     title: Image Grid
-    subtitle: Grid Section Example
+    subtitle: Portfolio
     align: center
     grid_items:
       - image: images/logo-1.svg
