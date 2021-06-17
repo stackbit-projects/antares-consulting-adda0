@@ -126,10 +126,10 @@ sections:
         image_has_padding: true
       - title: Security in the Cloud
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Leveraging on the security of cloud platforms, Antares ensures that
+          your data is optimally protected and secure in our cloud storage
+          platform.
         content_align: left
         actions:
           - label: Learn More
