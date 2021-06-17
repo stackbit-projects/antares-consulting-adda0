@@ -66,7 +66,9 @@ sections:
         media_position: left
         media_width: fifty
       - title: Branding and Business Development
-        subtitle: Create lasting impressions
+        subtitle: >-
+          Create lasting impressions and drive brand product uptake across
+          businesses and consumers.
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
