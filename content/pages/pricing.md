@@ -99,10 +99,9 @@ sections:
           to your needs. From startups to mature enterprises, our promise is to
           deliver end-to-end services with 100% excellence.
       - title: I'm not sure where to start..
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Whichever stage you might be at, get in touch with our business
+          developers to get an accurate quote and scope of work!
       - title: Viverra nam libero justo laoreet sit?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
