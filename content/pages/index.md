@@ -62,7 +62,7 @@ sections:
           management,  M\&A and other disciplines essential to achieving optimal
           results.
         actions:
-          - label: Learn More
+          - label: Get In Touch
             url: /style-guide
             style: primary
             has_icon: true
