@@ -169,7 +169,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Team Section
+    title: Antares Consulting Advisors
     subtitle: Our Board of Advisors
     actions:
       - label: Join the team
