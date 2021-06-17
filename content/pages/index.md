@@ -101,7 +101,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: Join Our Team of Talents
+    title: Excellence in Every Project
     subtitle: Our Promise
     grid_items:
       - title: Section Item 1
