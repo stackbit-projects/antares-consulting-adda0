@@ -51,7 +51,7 @@ sections:
           *   Perfect for serious startups / growth-stage firms
         content_align: left
         actions:
-          - label: Start with Premium
+          - label: Go Dedicated
             url: /features
             style: primary
         actions_align: left
