@@ -5,7 +5,7 @@ sections:
     title: Contact Antares Consulting
     subtitle: >-
       We’re always here to help, so please get in touch. Contact our team, ask a
-      question or tell us what you think of Pharma Intelligence.
+      question or tell us what you think of Antares Consulting.
     align: center
     padding_top: medium
     padding_bottom: medium
