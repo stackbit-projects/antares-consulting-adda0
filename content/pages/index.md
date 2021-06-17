@@ -54,10 +54,13 @@ sections:
     features:
       - title: Pharmaco Economics
         subtitle: An aid to better decision-making
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Pharmaceutical and biotech companies are spending years and millions
+          of dollars developing drugs or promising new biologics, all with the
+          hopes of saving or enhancing patients’ lives. At Antares Consulting,
+          we bring unmatched expertise in innovation, customer experience, cost
+          management,  M\&A and other disciplines essential to achieving optimal
+          results.
         actions:
           - label: Learn More
             url: /style-guide
