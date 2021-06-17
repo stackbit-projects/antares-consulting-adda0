@@ -33,8 +33,7 @@ sections:
       - image: /images/Logo.png
         image_alt: Netlify logo
         image_align: center
-      - image: images/logo-3.svg
-        image_alt: Gatsby logo
+      - image_alt: Gatsby logo
         image_align: center
       - image_alt: Sanity logo
         image_align: center
