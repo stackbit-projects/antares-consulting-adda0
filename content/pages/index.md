@@ -81,7 +81,7 @@ sections:
           successful clinical trial, this service provides the tools you need
           for effective decision making.
         actions:
-          - label: Learn More
+          - label: Get In Touch
             url: /style-guide
             style: primary
             has_icon: true
