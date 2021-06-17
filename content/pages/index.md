@@ -7,7 +7,7 @@ sections:
       management, commercial optimization, and R\&D strategy with customized
       solutions developed to help you make better informed strategic decisions.
     actions:
-      - label: Try Free
+      - label: Case Studies
         url: /pricing
         style: primary
       - label: Learn More
