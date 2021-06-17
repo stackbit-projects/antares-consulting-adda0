@@ -56,7 +56,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: En
+      - title: Enterprise
         subtitle: Optional subtitle
         title_align: left
         content: |-
