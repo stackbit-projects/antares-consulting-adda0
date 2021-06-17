@@ -106,10 +106,10 @@ sections:
     grid_items:
       - title: Available Worldwide Timezone
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Antares prides itself in its ability to respond to queries and project
+          timelines round the clock. Our global pool of consultants will be
+          around to manage your enquiries and respond to your needs timely.
         content_align: left
         actions:
           - label: Learn More
