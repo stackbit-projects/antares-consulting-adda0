@@ -3,7 +3,9 @@ title: Pricing
 sections:
   - type: hero_section
     title: Pick Your Plan
-    subtitle: Optional hero section subtitle
+    subtitle: >-
+      Antares Consulting makes it simple for you to kickstart your medtech
+      startup.
     align: center
     padding_top: large
     padding_bottom: small
