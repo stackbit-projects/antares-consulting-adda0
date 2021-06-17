@@ -102,12 +102,6 @@ sections:
         content: >
           Whichever stage you might be at, get in touch with our business
           developers to get an accurate quote and scope of work!
-      - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
-        content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
       - title: Porta nibh venenatis cras sed felis eget velit aliquet?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
