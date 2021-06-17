@@ -62,7 +62,7 @@ sections:
         content_align: left
         actions:
           - label: Get Directions
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
+            url: 'https://goo.gl/maps/d791oPBQUuxYJyUw8'
             style: link
             has_icon: true
             icon: arrow-right
