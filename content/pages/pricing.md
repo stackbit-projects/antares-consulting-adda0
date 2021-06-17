@@ -98,7 +98,7 @@ sections:
           Antares Consulting prides itself with its ability to scale according
           to your needs. From startups to mature enterprises, our promise is to
           deliver end-to-end services with 100% excellence.
-      - title: Sagittis vitae et leo duis ut diam?
+      - title: I'm not sure where to start..
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
