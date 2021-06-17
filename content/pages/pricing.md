@@ -91,10 +91,13 @@ sections:
     title: 'You asked, we answered!'
     grid_items:
       - title: Do you work with Startup Founders?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Yes, we do.
+
+
+          Antares Consulting prides itself with its ability to scale according
+          to your needs. From startups to mature enterprises, our promise is to
+          deliver end-to-end services with 100% excellence.
       - title: Sagittis vitae et leo duis ut diam?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
