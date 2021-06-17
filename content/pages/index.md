@@ -49,7 +49,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: Our Uniqueness
+    title: Specialisations
     subtitle: How We're Different
     features:
       - title: The Big Title For the Feature
