@@ -111,13 +111,7 @@ sections:
           timelines round the clock. Our global pool of consultants will be
           around to manage your enquiries and respond to your needs timely.
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/classic/icon-1.svg
         image_alt: Section item 1 icon
