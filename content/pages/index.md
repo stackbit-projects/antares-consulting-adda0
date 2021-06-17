@@ -22,32 +22,6 @@ sections:
     padding_bottom: large
     background_color: primary
     title: Pharmaceuticals Consulting
-  - type: grid_section
-    title: Clients We Work With
-    subtitle: Portfolio
-    align: center
-    grid_items:
-      - image: /images/GSC.png
-        image_alt: Contentful logo
-        image_align: center
-      - image: /images/Logo.png
-        image_alt: Netlify logo
-        image_align: center
-      - image_alt: Gatsby logo
-        image_align: center
-      - image_alt: Sanity logo
-        image_align: center
-      - image_alt: DatoCMS logo
-        image_align: center
-      - image_alt: Next.js logo
-        image_align: center
-      - image_alt: Gridsome logo
-        image_align: center
-      - image_alt: Git logo
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
   - type: features_section
     title: Our Specialisations
     subtitle: What We Offer
