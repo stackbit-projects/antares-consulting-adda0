@@ -177,7 +177,7 @@ sections:
         style: primary
     grid_items:
       - title: Gustav Purpleson
-        subtitle: Co-Founder & CEO
+        subtitle: President of X
         title_align: center
         image: images/gustav-purpleson.jpg
         image_position: top
