@@ -69,10 +69,10 @@ sections:
         subtitle: >-
           Create lasting impressions and drive brand product uptake across
           businesses and consumers.
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          From packaging decisions to developing and implementing consumer
+          promotions and driving strategic development of the brand portfolio,
+          Antares Consulting has your business covered end to end.
         actions:
           - label: Learn More
             url: /style-guide
