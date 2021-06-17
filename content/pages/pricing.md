@@ -39,7 +39,20 @@ sections:
         subtitle: Dedicated Consultant(s) powering your team
         title_align: left
         content: >
-          ### SGD $1900 ++
+          ### SGD $120
+
+
+          per hour, billed monthly
+
+
+          *   Access to our talent pool and the right talent to manage your
+          project
+
+
+          *   Flexible, cancel any time.
+
+
+          ### &#xA;&#xA;SGD $1900 ++
 
 
           per month, billed yearly
