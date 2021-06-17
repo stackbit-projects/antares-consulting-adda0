@@ -57,7 +57,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Enterprise
-        subtitle: Optional subtitle
+        subtitle: Customized Pricing for Enterprise Needs
         title_align: left
         content: |-
           ---
