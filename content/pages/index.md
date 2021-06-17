@@ -154,10 +154,10 @@ sections:
     background_color: none
   - type: cta_section
     title: Join Our Talents!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      Antares Consulting is looking to hire top talents from around the globe.
+      Interested in joining the ranks of a top-tier pharmaceuticals consultancy
+      firm? Let's get in touch!
     actions:
       - label: Learn More
         url: /features
