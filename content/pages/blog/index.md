@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     title: Pharma News
-    subtitle: Insights to the Pharmaceuticals Industry
+    subtitle: Your Trusted Source to
     align: center
     padding_top: medium
     padding_bottom: none
