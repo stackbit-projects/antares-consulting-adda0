@@ -170,7 +170,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Team Section
-    subtitle: Grid Section Example
+    subtitle: Our Board of Advisors
     actions:
       - label: Join the team
         url: /style-guide
