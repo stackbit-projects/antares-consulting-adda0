@@ -102,7 +102,7 @@ sections:
       We’re always here to help, so please get in touch. Contact our team, ask a
       question or tell us what you think of Antares Consulting
     actions:
-      - label: Compare Plans
+      - label: Contact Us
         url: /pricing
         style: primary
     align: center
