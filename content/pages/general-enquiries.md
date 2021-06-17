@@ -15,9 +15,19 @@ sections:
       ## Singapore Offices
 
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      37 Tannery Lane
+
+
+      \#06-09
+
+
+      Tannery House
+
+
+      Singapore 347790
+
+
+      \+65 6908 4368
 
 
       ## Privacy
