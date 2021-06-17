@@ -93,7 +93,7 @@ sections:
           “Antares Consultants are experts in their fields. They've brought
           tremendous benefit to our health-tech startup team and we are looking
           forward to our next engagement with them.”
-        subtitle: 'Brandon Guilles, Sr. Design Manager at Halo Health'
+        subtitle: 'Brandon Guilles, Sr. Manager at Global Commercio'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
