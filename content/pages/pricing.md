@@ -12,7 +12,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Hourly Consultantion
-        subtitle: Optional subtitle
+        subtitle: Hourly Consultation Package
         title_align: left
         content: |-
           ---
