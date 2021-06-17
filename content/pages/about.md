@@ -98,7 +98,9 @@ sections:
     background_color: none
   - type: cta_section
     title: Get In Touch
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: >
+      We’re always here to help, so please get in touch. Contact our team, ask a
+      question or tell us what you think of Antares Consulting
     actions:
       - label: Compare Plans
         url: /pricing
