@@ -89,7 +89,10 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: “Antares Consultants are experts in their fields. ”
+      - title: >-
+          “Antares Consultants are experts in their fields. They've brought
+          tremendous benefit to our health-tech startup team and we are looking
+          forward to our next engagement with them.”
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
