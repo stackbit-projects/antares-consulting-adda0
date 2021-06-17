@@ -10,7 +10,7 @@ sections:
       - label: Case Studies
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Services
         url: /features
         style: secondary
     image: images/classic/hero.png
