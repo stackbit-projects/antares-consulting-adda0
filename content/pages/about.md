@@ -24,10 +24,15 @@ sections:
         media_width: fifty
       - title: 'Nimble, Flexible'
         subtitle: From Startups to Established Pharma and Medtech Companies
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >+
+          Antares Consulting prides itself in its ability to scale according to
+          your needs. 
+
+
+          No matter the size or stage of your company, we’ll help you build a
+          complete picture of the rapidly changing pharmaceutical market with
+          our insight and expertise.
+
         image: images/about-2.jpg
         image_alt: People in a conference room
         media_position: left
