@@ -102,7 +102,7 @@ sections:
         content: >
           Whichever stage you might be at, get in touch with our business
           developers to get an accurate quote and scope of work!
-      - title: Porta nibh venenatis cras sed felis eget velit aliquet?
+      - title: Can I engage solely for branding and marketing?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
           Dictum varius duis at consectetur lorem donec massa. Porta non
