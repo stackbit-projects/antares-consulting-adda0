@@ -23,7 +23,7 @@ sections:
     background_color: primary
     title: Pharmaceuticals Consulting
   - type: grid_section
-    title: Image Grid
+    title: Clients We Work With
     subtitle: Portfolio
     align: center
     grid_items:
