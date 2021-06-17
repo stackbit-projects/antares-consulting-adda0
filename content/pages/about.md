@@ -10,10 +10,14 @@ sections:
     features:
       - title: 'Analysis, insight and consultancy'
         subtitle: Excellence Delivered.
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Our analysis, insight and consultancy services span drug, device,
+          company, clinical trial and market intelligence. Antares Consulting
+          services are delivered by an authoritative team of industry experts in
+          key markets around the globe. And because our approach is
+          interconnected, our analysts can give a broader perspective,
+          identifying disruptive events, and in turn, helping you spot
+          opportunities and mitigate risk.
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
