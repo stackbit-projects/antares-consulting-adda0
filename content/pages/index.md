@@ -3,9 +3,10 @@ title: Home
 sections:
   - type: hero_section
     subtitle: Pharmaceuticals Consulting
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Navigate biopharma business consulting, business management, portfolio
+      management, commercial optimization, and R\&D strategy with customized
+      solutions developed to help you make better informed strategic decisions.
     actions:
       - label: Try Free
         url: /pricing
