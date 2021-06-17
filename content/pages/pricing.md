@@ -36,7 +36,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Dedicated Consultant(s)
-        subtitle: Optional subtitle
+        subtitle: Dedicated Consultant(s) powering your team
         title_align: left
         content: |-
           ---
