@@ -72,7 +72,9 @@ sections:
       - title: Singapore
         content: |
           82 Ubi Avenue 4
-          \#06-01Edward Boustead Centre
+          \#06-01
+
+          Edward Boustead Centre
           Singapore 408832
 
           [](mailto:email@example.com)
