@@ -102,7 +102,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Join Our Team of Talents
-    subtitle: Careers
+    subtitle: Our Promise
     grid_items:
       - title: Section Item 1
         title_align: left
