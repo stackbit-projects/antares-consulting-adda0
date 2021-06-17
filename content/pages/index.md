@@ -74,7 +74,7 @@ sections:
           promotions and driving strategic development of the brand portfolio,
           Antares Consulting has your business covered end to end.
         actions:
-          - label: Learn More
+          - label: Get In Touch
             url: /style-guide
             style: primary
             has_icon: true
