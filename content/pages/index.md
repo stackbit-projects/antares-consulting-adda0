@@ -30,7 +30,7 @@ sections:
       - image: /images/GSC.png
         image_alt: Contentful logo
         image_align: center
-      - image: images/logo-2.svg
+      - image: /images/Logo.png
         image_alt: Netlify logo
         image_align: center
       - image: images/logo-3.svg
