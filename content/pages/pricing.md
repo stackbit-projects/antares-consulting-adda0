@@ -38,18 +38,20 @@ sections:
       - title: Dedicated Consultant(s)
         subtitle: Dedicated Consultant(s) powering your team
         title_align: left
-        content: |-
-          ---
+        content: >
+          ***
 
-          ### $19
+
+          ### $1900++ 
+
 
           per month, billed yearly
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+
+          *   Dedicated, exclusive consultants seconded to take care of your
+          project needs.
+
+          *   Perfect for serious startups / growth-stage firms
         content_align: left
         actions:
           - label: Start with Premium
