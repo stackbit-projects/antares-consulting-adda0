@@ -11,18 +11,21 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >-
-      ## Billing
+    content: >
+      ## Singapore Offices
+
 
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
       fringilla, fringilla.
+
 
       ## Privacy
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+
+      Submission of contact forms or contact details of any kind gives Antares
+      Consulting the right and consent to contact you at the given contact
+      details.
     content_align: left
     form_position: right
     form_width: fifty
