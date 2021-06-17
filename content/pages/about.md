@@ -39,10 +39,11 @@ sections:
         media_width: fifty
       - title: Top-Tier Talents
         subtitle: 'Versatile, Experienced Talent Pool'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Antares Consulting hires the best of the best in the pharmaceuticals
+          industry and its peripheral verticals: Cloud Computing, Brand
+          Management, Marketing, Data Analysis, Business Operations, and More.
+          Engage us for the best.
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right
